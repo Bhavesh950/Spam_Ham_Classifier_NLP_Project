@@ -109,7 +109,7 @@ Optimized:
 Instead of using default threshold:
 
 ```python
-0.5
+0.6 - 0.7
 ```
 
 custom threshold tuning was applied after analyzing:
@@ -167,13 +167,13 @@ Main improvements done:
 
 # 📸 Screenshots
 
-## 🌙 Dark Mode
+## 🌙 Light Mode
 
 ![Dark Mode](screenshots/dark_mode.png)
 
 ---
 
-## ☀️ Light Mode
+## ☀️ Dark Mode
 
 ![Light Mode](screenshots/light_mode.png)
 
