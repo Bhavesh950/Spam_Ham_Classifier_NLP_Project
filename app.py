@@ -62,4 +62,4 @@ def predict():
     result = sv.predict(clean_text)
     return render_template("index.html" , message = message , prediction = result)
 
-app.run(debug = True , port =5500)
+app.run(debug = True , port =3500)
