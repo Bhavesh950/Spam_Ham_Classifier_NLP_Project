@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="spamshield-ai-banner.png" alt="SpamShield AI Banner" width="100%">
+</p>
+
+# 🚀 SpamShield AI — NLP Based Spam/Ham Classifier
+
 # 🚀 SpamShield AI — NLP Based Spam/Ham Classifier
 
 An advanced NLP-based Spam Detection System built using **Python, Machine Learning, TF-IDF, Random Forest, Threshold Tuning, and Flask** with a modern futuristic AI-inspired UI.
